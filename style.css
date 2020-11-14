@@ -1,0 +1,124 @@
+body{
+	font-family: Verdana;
+	background-color: lightgrey;
+}
+
+.container{
+	border: 1px solid black;
+	background-color: pink;
+	width: 600px;
+	float: left;
+
+
+}
+
+.header{
+	background-color: lightblue;
+	height: 75px;
+	text-align: center;
+	font-size: 30px;
+
+
+	
+}
+
+.menu{
+	background-color: purple;
+	height: 15px;
+	padding-bottom: 10px;
+	color:black;
+}
+
+.body{
+	background-color: red;
+	height: 700px;
+	width:350px;
+	
+}
+
+.sidebar{
+	background-color: green;
+	color: black;
+	float: right;
+	right: 402px;
+	position: absolute;
+	width:250px;
+	height: 500px;
+
+	
+}
+
+.text2{
+	width: 220px;
+	height: 250px;
+	float: right;
+	right: 425px;
+ 	position: absolute;
+	padding-top: 100px;
+	padding-left: 10px;
+	color: red;
+}
+.h4{
+
+	color: blue	;
+	font-size: 14px;
+}
+
+.H4{
+	color: purple;
+
+}
+
+
+.h3{
+	padding-left: 352px;
+	padding-top: 50px;
+	position: absolute;
+
+}
+
+.H3{
+	padding-top: 30px;
+	padding-left: 10px;
+	font-size: 24px;
+	color:white;
+}
+
+.h5{
+	width: 220px;
+	height: 250px;
+	float: right;
+	right: 425px;
+ 	position: absolute;
+	padding-top: 70px;
+	padding-left: 10px;
+	color: red;
+
+}
+
+
+.gubbe1{
+	float: left;
+	height: 300px;
+	width: 250px;
+	border: 1px solid red
+}
+.gubbe2{
+	float:left;
+	height: 250px;
+	padding-top: 75px;
+}
+.gubbe3{
+	width: 250px;
+	height: 300px;
+	border: 1px solid red
+}
+
+.bild{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	padding-left: 350px;
+	padding-top: 100px;
+	
+}
